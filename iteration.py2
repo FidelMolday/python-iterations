@@ -1,0 +1,12 @@
+#strings
+for char in "Python":
+    print(char)
+    
+
+#list
+for  i in [1, 2, 3, 4]:
+    print(i)
+    
+#dictionary
+for k in {"x":1, "y":2 }:
+     print(k)              
